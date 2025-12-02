@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ビタースウィート",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-02T12:21:22.669286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビタースウィート",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_ビタースウィート_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビタースウィート - Bitter Sweet",
+      "artist": "Royal Scandal",
+      "has_synced": false,
+      "path": "select/02_ビタースウィート_-_Bitter_Sweet_Royal_Scandal.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビタースウィート",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ビタースウィート_UVERworld.txt"
+    }
+  ]
+}
